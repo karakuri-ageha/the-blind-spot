@@ -1,19 +1,9 @@
 title: 性教育の不在がもたらす構造的被害──規制・表現・教育の三角問題
 description: 表現規制に関する学術的政策批評
 theme: minima
+header_pages: []
 defaults:
   - scope:
       path: ""
     values:
       layout: "default"
-exclude:
-  - 第１章.md
-  - 第２章.md
-  - 第３章.md
-  - 第４章.md
-  - 第５章.md
-  - 第６章.md
-  - 付録A.md
-  - 付録B.md
-  - 付録C.md
-  
